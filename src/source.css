@@ -342,7 +342,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	height: 8px !important;
  }
 
- /* Border and colour of the scrollbar thumb  */
+ /* Border and colour of the scrollbar thumb*/
  ::-webkit-scrollbar-thumb {
  	background-color: #c5c4c0 !important;
  	border: none !important;
